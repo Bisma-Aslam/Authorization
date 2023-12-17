@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Bisma-Aslam/Authorization#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.2"
   }
 }

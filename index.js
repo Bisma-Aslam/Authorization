@@ -93,7 +93,7 @@ app.post("/register", (req,res) => {
 });
 
 
-const PORT =5000;
+const PORT =5001;
 
 app.use("/friends", routes);
 

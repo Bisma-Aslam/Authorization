@@ -1,0 +1,22 @@
+{
+  "name": "authorization",
+  "version": "1.0.0",
+  "description": "Adding Authorization to my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bisma-Aslam/Authorization.git"
+  },
+  "author": "Bisma Aslam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bisma-Aslam/Authorization/issues"
+  },
+  "homepage": "https://github.com/Bisma-Aslam/Authorization#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
